@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_details"
+        android:icon="@drawable/baseline_movie_creation_24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Detail Movie" />
+    <item
+        android:id="@+id/nav_order"
+        android:icon="@drawable/baseline_4k_24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Order" />
+    <item
+        android:id="@+id/nav_hasil_order"
+        android:icon="@drawable/baseline_note_24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Hasil Order" />
+</menu>
